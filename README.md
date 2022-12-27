@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ubiquitous-pixie-8c0dcb.netlify.app/](https://ubiquitous-pixie-8c0dcb.netlify.app/)
 
 # Frontend Mentor - Job listings with filtering solution
 
